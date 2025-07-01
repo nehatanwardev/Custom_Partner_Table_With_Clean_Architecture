@@ -56,10 +56,6 @@ lib/
 2. Run `flutter pub get`
 3. Run `flutter run`
 
-## API endpoints
-
-- Customers: `https://flutter-test-xor.free.beeceptor.com/customers`
-- Partners: `https://flutter-test-xor.free.beeceptor.com/partners`
 
 ## What's included
 
