@@ -77,3 +77,8 @@ lib/
 This shows I can build both simple and complex apps. For small projects, you'd use MVC with setState. For big projects like this, Clean Architecture makes the code maintainable and scalable.
 
 The app handles real API calls, manages state properly, and provides a smooth user experience - all things that matter in production apps.
+
+
+
+![image](https://github.com/user-attachments/assets/2a90136a-4cd9-41c1-a8fd-a11da0fc7f1f)
+
